@@ -1,0 +1,6 @@
+* Magit Stashes
+
+  - Commits on which the stash was created is shown
+  - not able to expand the stashes, possible to press enter to see diff
+
+* Unpushed Changes
