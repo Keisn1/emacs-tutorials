@@ -4,3 +4,6 @@
   - not able to expand the stashes, possible to press enter to see diff
 
 * Unpushed Changes
+
+* Unmerged Changes section
+
