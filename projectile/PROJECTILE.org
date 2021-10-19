@@ -1,0 +1,8 @@
+* Videos
+
+  [[https://www.youtube.com/watch?v=INTu30BHZGk&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=5&t=120s][Emacs From Scratch #4 - Projectile and Magit]]
+
+  
+* Package to interact with your project
+
+  
