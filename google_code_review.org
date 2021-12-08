@@ -1,0 +1,48 @@
+* [[https://google.github.io/eng-practices/][Google Engineering Practices Documentation]] 
+
+  [[https://google.github.io/eng-practices/review/reviewer/][The Code Reviewer’s Guide]]
+  
+** [[https://google.github.io/eng-practices/review/reviewer/standard.html][The Standard of Code Review]]
+
+   - Primary Purpose: improving code health
+   - Trade-offs:
+     - make progress vs. make a ChangeList of Quality
+   - In general, reviewers should favor approving a CL once it is in a state
+     where it definitely improves the overall code health of the system being
+     worked on, even if the CL isn’t perfect.
+   - That is the senior principle among all of the code review guidelines.
+   - Limitations:
+     - there is no perfect code     
+     - no feature that ain't desired
+     - balance need between forward progress and importance of changes ->
+       continious improvement
+     - improve maintainability, readability, understandability
+   - feel to leave comments
+     - not important? than prefix with "Nit: "
+
+   - What is absolutely to be avoided is *Worsen the CodeBase*
+     - only in Emergency
+
+*** Mentoring
+
+    - important function of teaching
+    - comment is purely educational
+
+*** Principles
+
+    - Technical facts and data overrule opinions and personal preferences
+    - [[https://google.github.io/styleguide/][styleguide]] is absolute authority
+    - Aspects of software design are almost never a pure style issue or just a
+      personal preference.
+
+*** Resolving Conflicts
+
+    - Don’t let a CL sit around because the author and the reviewer can’t come
+      to an agreement. 
+
+** What to Look For In a Code Review
+** Navigating a CL in Review
+** Speed of Code Reviews
+** How to Write Code Review Comments
+** Handling Pushback in Code Reviews
+
